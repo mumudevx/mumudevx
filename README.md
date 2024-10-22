@@ -27,6 +27,4 @@
 
 ## Whoop!
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=muhsinarslan&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="left"/>
-<div align="right">
-  <a href="https://roadmap.sh/u/mumudevx"><img src="https://roadmap.sh/card/wide/64c01138fcdcf9c5d50ad3f6?variant=dark" alt="roadmap"/></a>
-</div>
+<div align="right"></div>
