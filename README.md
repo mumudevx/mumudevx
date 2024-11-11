@@ -24,6 +24,25 @@
 
 &nbsp;
 
+## Gears
+- MacBook Pro M2 Max
+- Keychron K2 US Layout
+- Steelseries Aerox 5 Wireless
+- Logitech MX Master 3S
+- Custom Build Desktop with Windows 11 & ArchLinux
+- Samsung 34" Ultra Wide Monitor
+
+&nbsp;
+
+## Tools
+- [JetBrains Rider](https://jetbrains.com/rider/)
+- [JetBrains DataGrip](https://www.jetbrains.com/datagrip)
+- [Android Studio](https://developer.android.com/studio)
+- [Cursor Editor](https://www.cursor.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+&nbsp;
+
 ## Whoop!
 <div>
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=muhsinarslan&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="left"/>
