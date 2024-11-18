@@ -39,6 +39,7 @@
 - [Android Studio](https://developer.android.com/studio)
 - [Cursor Editor](https://www.cursor.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 &nbsp;
 
