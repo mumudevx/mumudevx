@@ -1,7 +1,7 @@
 # Hey there! 🤘🏻
 
 <div>
-  <p>I'm Muhsin, known as mumudevx online. I've spent 7 years honing my full-stack skills, but my true passion lies in entrepreneurship. I love using technology to solve problems and create value. I'm a language-agnostic developer always eager to learn.</p>
+  <p>I'm Muhsin, known as mumudevx online. I've spent 10 years honing my full-stack skills, but my true passion lies in entrepreneurship. I love using technology to solve problems and create value. I'm a language-agnostic developer always eager to learn.</p>
 </div>
 
 &nbsp;
