@@ -36,6 +36,7 @@
 ## Tools
 - [JetBrains Rider](https://jetbrains.com/rider/)
 - [JetBrains DataGrip](https://www.jetbrains.com/datagrip)
+- [JetBrains RustRover](https://www.jetbrains.com/rust/)
 - [Android Studio](https://developer.android.com/studio)
 - [Cursor Editor](https://www.cursor.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
