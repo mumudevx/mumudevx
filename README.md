@@ -23,16 +23,6 @@
 
 &nbsp;
 
-## Gears
-- MacBook Pro M2 Max
-- Keychron K2 US Layout
-- Steelseries Aerox 5 Wireless
-- Logitech MX Master 3S
-- Custom Build Desktop with Windows 11 & ArchLinux
-- Samsung 34" Ultra Wide Monitor
-
-&nbsp;
-
 ## Tools
 - [JetBrains Rider](https://jetbrains.com/rider/)
 - [JetBrains DataGrip](https://www.jetbrains.com/datagrip)
