@@ -6,6 +6,16 @@
 
 &nbsp;
 
+## Connect with me
+
+<div>
+  <a href="https://bento.me/muhsinarslan" target="_blank">
+    <img src="https://img.shields.io/badge/bento-black.svg?&style=for-the-badge&logo=bento&logoColor=white" style="margin-bottom: 5px;" />
+  </a>
+</div>
+
+&nbsp;
+
 ## Stats
 
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=mumudevx&theme=vue-dark&hide_border=true' />
