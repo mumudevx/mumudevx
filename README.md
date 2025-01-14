@@ -1,7 +1,12 @@
 # Hey there! 🤘🏻
 
 <div>
-  <p>I'm Muhsin, known as mumudevx online. I've spent 10 years honing my full-stack skills, but my true passion lies in entrepreneurship. I love using technology to solve problems and create value. I'm a language-agnostic developer always eager to learn.</p>
+  <p>I'm Muhsin, known as mumudevx online. I've spent 10 years honing my full-stack skills, but my true passion lies in solopreneur I love using technology to solve problems and create value. I'm a language-agnostic developer always eager to learn.</p>
+</div>
+
+<div>
+  <h4>🚀 Building the future, one SaaS at a time!</h4>
+  <p>Currently developing 3 innovative SaaS products, each aimed at solving real-world problems and pushing boundaries in tech. From MVP to scalable solutions, I thrive on turning ideas into impactful products. Stay tuned — it's only the beginning!</p>
 </div>
 
 &nbsp;
