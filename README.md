@@ -6,7 +6,7 @@
 
 <div>
   <h4>🚀 Building the future, one SaaS at a time!</h4>
-  <p>Currently developing 3 innovative SaaS products, each aimed at solving real-world problems and pushing boundaries in tech. From MVP to scalable solutions, I thrive on turning ideas into impactful products. Stay tuned — it's only the beginning!</p>
+  <p>Currently developing innovative SaaS products, each aimed at solving real-world problems and pushing boundaries in tech. From MVP to scalable solutions, I thrive on turning ideas into impactful products.</p>
 </div>
 
 &nbsp;
