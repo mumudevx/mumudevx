@@ -10,13 +10,6 @@ Currently Working On [Reiso](https://rei.so/) 🎨
 
 &nbsp;
 
-<div>
-  <h4>🚀 Building the future, one SaaS at a time!</h4>
-  <p>Currently developing innovative SaaS products, each aimed at solving real-world problems and pushing boundaries in tech. From MVP to scalable solutions, I thrive on turning ideas into impactful products.</p>
-</div>
-
-&nbsp;
-
 ## Stats
 
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=mumudevx&theme=vue-dark&hide_border=true' />
