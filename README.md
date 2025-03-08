@@ -4,19 +4,15 @@
   <p>I'm Muhsin, known as mumudevx online. I've spent 10 years honing my full-stack skills, but my true passion lies in solopreneur I love using technology to solve problems and create value. I'm a language-agnostic developer always eager to learn.</p>
 </div>
 
-<div>
-  <h4>🚀 Building the future, one SaaS at a time!</h4>
-  <p>Currently developing innovative SaaS products, each aimed at solving real-world problems and pushing boundaries in tech. From MVP to scalable solutions, I thrive on turning ideas into impactful products.</p>
-</div>
+&nbsp;
+
+Currently Working On [Reiso](https://rei.so/) 🎨
 
 &nbsp;
 
-## Connect with me
-
 <div>
-  <a href="https://bento.me/muhsinarslan" target="_blank">
-    <img src="https://img.shields.io/badge/bento-black.svg?&style=for-the-badge&logo=bento&logoColor=white" style="margin-bottom: 5px;" />
-  </a>
+  <h4>🚀 Building the future, one SaaS at a time!</h4>
+  <p>Currently developing innovative SaaS products, each aimed at solving real-world problems and pushing boundaries in tech. From MVP to scalable solutions, I thrive on turning ideas into impactful products.</p>
 </div>
 
 &nbsp;
